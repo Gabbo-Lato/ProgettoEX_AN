@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Gatto", "type": "Mammifero" },
+    { "id": 2, "name": "Cane", "type": "Mammifero" },
+    { "id": 3, "name": "Pappagallo", "type": "Uccello" },
+    { "id": 4, "name": "Pesce Rosso", "type": "Pesce" }
+]
